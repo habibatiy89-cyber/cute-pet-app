@@ -4,19 +4,19 @@
       "id": 1,
       "name": "Mr. Whiskers",
       "image": "https://placekitten.com/200/200",
-      "likes": 0
+      "likes": 2
     },
     {
       "id": 2,
       "name": "Bella",
       "image": "https://placedog.net/200/200?id=1",
-      "likes": 0
+      "likes": 3
     },
     {
       "id": 3,
       "name": "Charlie",
       "image": "https://placedog.net/200/200?id=2",
-      "likes": 0
+      "likes": 7
     }
   ]
 }
